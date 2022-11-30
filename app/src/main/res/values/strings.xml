@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="description_post_autor_avatar">Netology</string>
+    <string name="description_post_menu">Menu</string>
+    <string name="description_post_view">view</string>
+    <string name="countView">123K</string>
+    <string name="countLikes">125K</string>
+    <string name="countShares">12K</string>
+    <string name="description_post_like">Like</string>
+    <string name="description_post_share">Share</string>
+    <string name="description_post_save">Save</string>
+    <string name="description_post_cancel">Cancel</string>
+    <string name="menu_remove">Remove</string>
+    <string name="post_text">Post Text</string>
+    <string name="menu_edit">Edit</string>
+    <string name="error_empty_content">Content can\'t be empty</string>
+    <string name="chooser_share_post">Share post</string>
+    <string name="chooser_video">View video</string>
+    <string name="add_post">Add post</string>
+    <string name="save">Save</string>
+</resources>

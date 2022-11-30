@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.AppTheme.LikedCheckBox" parent="Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="iconTint">@color/like_tint</item>
+        <item name="icon">@drawable/like_selector</item>
+        <item name="android:minWidth">80dp</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.AppTheme.OptionsCheckBox" parent="Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="iconTint">@color/opitons_tint</item>
+        <item name="icon">@drawable/ic_baseline_more_vert_24</item>
+        <item name="android:minWidth">0dp</item>
+
+    </style>
+
+</resources>

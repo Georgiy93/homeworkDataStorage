@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.AppTheme.ShareCheckBox" parent="Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="iconTint">@color/share_tint</item>
+        <item name="icon">@drawable/share_selector</item>
+        <item name="android:minWidth">80dp</item>
+
+    </style>
+</resources>
